@@ -1,0 +1,57 @@
+[
+  {
+    "name": "HotWheels - eBay (PL search)",
+    "url": "https://www.ebay.pl/sch/i.html?_nkw=hot+wheels&_sop=10",
+    "itemSelector": ".s-item",
+    "titleSelector": ".s-item__title",
+    "priceSelector": ".s-item__price",
+    "linkSelector": ".s-item__link",
+    "maxPrice": 50,
+    "expectedResaleValue": 300,
+    "minProfit": 150
+  },
+  {
+    "name": "Nike - eBay",
+    "url": "https://www.ebay.pl/sch/i.html?_nkw=nike+shoe&_sop=10",
+    "itemSelector": ".s-item",
+    "titleSelector": ".s-item__title",
+    "priceSelector": ".s-item__price",
+    "linkSelector": ".s-item__link",
+    "maxPrice": 80,
+    "expectedResaleValue": 400,
+    "minProfit": 150
+  },
+  {
+    "name": "Ralph Lauren - eBay",
+    "url": "https://www.ebay.pl/sch/i.html?_nkw=ralph+lauren&_sop=10",
+    "itemSelector": ".s-item",
+    "titleSelector": ".s-item__title",
+    "priceSelector": ".s-item__price",
+    "linkSelector": ".s-item__link",
+    "maxPrice": 60,
+    "expectedResaleValue": 300,
+    "minProfit": 120
+  },
+  {
+    "name": "Lego - eBay",
+    "url": "https://www.ebay.pl/sch/i.html?_nkw=lego+set&_sop=10",
+    "itemSelector": ".s-item",
+    "titleSelector": ".s-item__title",
+    "priceSelector": ".s-item__price",
+    "linkSelector": ".s-item__link",
+    "maxPrice": 70,
+    "expectedResaleValue": 500,
+    "minProfit": 200
+  },
+  {
+    "name": "Funko Pop - eBay",
+    "url": "https://www.ebay.pl/sch/i.html?_nkw=funko+pop&_sop=10",
+    "itemSelector": ".s-item",
+    "titleSelector": ".s-item__title",
+    "priceSelector": ".s-item__price",
+    "linkSelector": ".s-item__link",
+    "maxPrice": 40,
+    "expectedResaleValue": 150,
+    "minProfit": 50
+  }
+]
